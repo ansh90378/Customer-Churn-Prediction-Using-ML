@@ -49,13 +49,16 @@ To run this project on your local machine:
 
 ## Results
 ### Confusion Matrix
-*(Add your confusion matrix visualization here)*
+*![Confusion matrix](https://github.com/user-attachments/assets/315cf444-0287-4291-8df5-9cf8bbab4419)*
 
 ### ROC Curve
-*(Add your ROC curve visualization here)*
+*![ROC Curve](https://github.com/user-attachments/assets/abc887d3-3d85-4e66-8910-6ccec51c1a46)*
+
 
 ### Feature Importance
-*(Add your feature importance plot here)*
+*![Feature Importance ](https://github.com/user-attachments/assets/8ae92362-df50-428d-863d-2a7b898bf002)*
+Monthly Charges and Total Charges drive the model's predictions the most.
+
 
 ## Acknowledgments
 This project is inspired by the need to reduce customer churn and improve business decision-making using data-driven methods. Special thanks to IBM and Kaggle for providing the Telco Customer Churn dataset.
